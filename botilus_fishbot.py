@@ -1,5 +1,3 @@
-#Botilus0001 
-#v1.2
 import os
 import win32com.client
 import pyautogui
